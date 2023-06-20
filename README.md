@@ -1,6 +1,6 @@
 # TargetSistemas
 
-Desenvolvi esses código na liguaguem Java, pois é a linguaguem que eu estou estudando. Não sei muita coisa, mas estou me desenvolvendo devagar.
+Desenvolvi esses código na liguaguem Java, pois é a linguaguem que eu tenho conhecimento e estou me desenvolvendo.
 
 ## O Teste de número 3 
 
